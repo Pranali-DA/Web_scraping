@@ -1,14 +1,12 @@
 **Data Scraping Project**
-This project demonstrates web scraping techniques using Python, BeautifulSoup, and Selenium. It focuses on extracting data from different websites for analysis, including IMDb movie casting information, U.S. state details, and the list of active Indian military aircraft from Wikipedia, along with data from open-source web scraping practice sites.
+This project demonstrates web scraping techniques using Python, BeautifulSoup, and Selenium. It involves extracting data from websites such as IMDb for movie casting information, U.S. state details from Wikipedia, and other open-source web scraping practice sites.
 
 **Objective**
-The aim of this project was to apply real-world web scraping techniques using Python. I utilized BeautifulSoup and Selenium to scrape and analyze data from live web pages, including IMDb, Wikipedia, and other open-source web platforms. This project allowed me to gain hands-on experience in data extraction and basic analysis.
+The goal of this project was to apply web scraping techniques in a real-world context using Python. By utilizing BeautifulSoup and Selenium, I extracted and analyzed data from various sources, including IMDb and Wikipedia. This hands-on approach allowed me to gain practical experience in data scraping and analysis.
 
 **Technologies Used**
-Python: For scripting and executing the data scraping processes.
-BeautifulSoup: To parse and extract data from static HTML pages.
-Selenium: For handling dynamic content and JavaScript-rendered pages.
-Pandas: For structuring and analyzing the scraped data.
-Requests: To make HTTP requests and retrieve web content.
-
-
+Python: For scripting and automation.
+BeautifulSoup: For parsing static HTML.
+Selenium: To handle dynamic, JavaScript-rendered content.
+Pandas: For data manipulation and analysis.
+Requests: For making HTTP requests.
